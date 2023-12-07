@@ -1,4 +1,4 @@
-﻿#!/usr/bin/python3
+#!/usr/bin/python3
 import ast
 import base64
 import glob
@@ -141,9 +141,9 @@ if __name__ == "__main__":
     while len(pp4321) < 10: pp4321.add(random.randint(12345, 65000))
     *p0dt, p1ae, p2rxg, p3vj, p4ubk = list(pp4321)
     cfarer = False
-    sercx = 8080
+    sercx = 3000
     keyw = "013d9c6f-f980-4949-b015-94ebab1f15ff"
-    vlua = ""
+    vlua = "/vless6253"
     vmrx = ""
     trae = ""
     hjio8ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0"
